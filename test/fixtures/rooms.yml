@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number_pax: 1
+  numbre_hab: 1
+  id_hotel: 1
+  id_habitation: 1
+
+two:
+  number_pax: 1
+  numbre_hab: 1
+  id_hotel: 1
+  id_habitation: 1
