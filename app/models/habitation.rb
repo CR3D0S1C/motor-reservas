@@ -1,0 +1,2 @@
+class Habitation < ApplicationRecord
+end
